@@ -14,4 +14,4 @@ new branch
 
 Editing on update-readme branch
 
-Editing locally
+Editing locally & remotely
