@@ -5,7 +5,7 @@ Updating readme on master on github before rebase
 
 
 ## Repository Purpose
-This is just a Readme file
+This is just a Readme file. The purpose of this file is to provide examples.
 
 
 
